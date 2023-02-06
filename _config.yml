@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Matt Dobbin"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Matt Dobbin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I'm not sure what to write here."
   location         : "Ottawa, ON"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Ceridian"
+  pubmed           : 
+  googlescholar    :
   email            : "mattdobbin10@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mattdobbin"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "www.linkedin.com/in/mattdobbin10"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "mattdobbin10"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
